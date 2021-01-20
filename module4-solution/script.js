@@ -66,5 +66,5 @@ for (var name in names) {
     // helloSpeaker.xxxx
     helloSpeaker.SpeakHello(names[name]);
   }
-}
+} 
 })();
